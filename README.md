@@ -12,15 +12,15 @@ This data contains sales and marketing expenditure data for 2 years in an unknow
 
 These are the only facts shared about the columns of data:
 
-NewVolSales - Sales of the item being marketed.
-Base_Price - Price of the item being marketed during that period.
-Radio - Investment in radio advertising during that period.
-InStore - Investment in in-store promotions during that period.
-Newspaper - An indicator of newspaper inserts for that period.  Null values represent no insert used. (more info here)[https://en.wikipedia.org/wiki/Insert_(print_advertising)] 
-Discount - The percentage discount offered during that period.
-TV - Investment in TV advertising during that period.
-Stout - unknown anomaly in the data?
-Website_Campaign - An indicator of a website campaign during that period.  Null values represent no website campaign used.
+- NewVolSales - Sales of the item being marketed.
+- Base_Price - Price of the item being marketed during that period.
+- Radio - Investment in radio advertising during that period.
+- InStore - Investment in in-store promotions during that period.
+- Newspaper - An indicator of newspaper inserts for that period.  Null values represent no insert used. (more info here)[https://en.wikipedia.org/wiki/Insert_(print_advertising)] 
+- Discount - The percentage discount offered during that period.
+- TV - Investment in TV advertising during that period.
+- Stout - unknown anomaly in the data?
+- Website_Campaign - An indicator of a website campaign during that period.  Null values represent no website campaign used.
 
 
 ### Assignment
