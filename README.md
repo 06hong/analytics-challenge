@@ -28,7 +28,7 @@ These are the only facts shared about the columns of data:
 ### Assignment
 
 1. What follow up questions do you have for this client?
-2. Sometimes we have incomplete information and still must perform some initial analysis.  Perform a quick exploratory data analysis on this data set given what you know. Attempt to find relationships between advertising and product sales. The client is interested in understanding the effectiveness of the advertising investments they've made over the past 2 years.
+2. Sometimes we have incomplete information and still must perform some initial analysis.  Perform a quick (30 mins or less) exploratory data analysis on this data set given what you know. Attempt to find relationships between advertising and product sales, if you can. Show us your ability to visualize data. Assume that the client is interested in understanding the effectiveness of the advertising investments they've made over the past 2 years.
 
 <strong>Please present your questions and initial findings as a series of data visualizations representing your take on an initial exploration of the data.  Please submit this as a PDF.</strong>
 
