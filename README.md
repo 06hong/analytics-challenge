@@ -2,6 +2,8 @@
 
 An open data set and challenge to assess exploratory data analysis skills of an analyst.  In this repo, you'll find the data and instructions for an assignment.
 
+<strong>Please, do not spend more than a total of 60 mins on this assessment. Question 1 is more important than question 2. Question 2 is simply you know how to do it or you do not. You can spend a lot of time on that question if you're not familiar with text files. I don't recommend that, just turn in your attempt.</strong>
+
 ## Challenge 1:  Marketing Mix Assessment
 
 This challenge will assess your skill in understanding the relationships between marketing investment and an outcome variable.  For this challenge, please use the file called mmm.csv in the data folder.  
