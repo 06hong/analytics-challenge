@@ -1,10 +1,10 @@
 # analytics-challenge
 
-An open data set and challenge to test exploratory data analysis skills of an analyst.  In this repo, you'll find the data and instructions for an assignment.
+An open data set and challenge to assess exploratory data analysis skills of an analyst.  In this repo, you'll find the data and instructions for an assignment.
 
 ## Challenge 1:  Marketing Mix Assessment
 
-This challenge will test your skill in understanding the relationships between marketing investment and an outcome variable.  For this challenge, please use the file called mmm.csv in the data folder.  
+This challenge will assess your skill in understanding the relationships between marketing investment and an outcome variable.  For this challenge, please use the file called mmm.csv in the data folder.  
 
 ### About the data:
 
@@ -32,7 +32,7 @@ These are the only facts shared about the columns of data:
 
 ## Challenge 2:  Technical Challenge
 
-Sometimes we must interact with strange data formats, and at times they may not be in the format needed to immediately support analytics. In this challenge, you'll attempt to analyze a document related to Chicago crime.  The data, which you'll find in the link below is in JSON format. It represents all crimes reported in Chicago since 2020.
+Sometimes we must interact with strange data formats, and at times they may not be in the format needed to immediately support analytics. In this assessment, you'll attempt to analyze a document related to Chicago crime.  The data, which you'll find in the link below is in JSON format. It represents all crimes reported in Chicago since 2020.
 
 ### Assignment
 
